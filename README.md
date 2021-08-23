@@ -1,0 +1,1 @@
+use npx expo init
